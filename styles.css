@@ -7,17 +7,14 @@
   
   body {
     height: 100vh;
-    background: linear-gradient(
-      120deg,
-      rgb(58, 196, 134) 0%,
-      rgb(30, 138, 89) 100%
-    );
+    background: #1f8b5b;
     display: flex;
     align-items: center;
     justify-content: center;
   }
   
   .container {
+    height: 100vh;
     border: 2px solid #fff;
     padding: 30px 40px;
     width: 40%;
