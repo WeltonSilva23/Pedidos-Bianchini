@@ -8,6 +8,7 @@
     height: 100vh;
 }
   body {
+    padding: 30px 40px;
     background: #1f8b5b;
     display: flex;
     align-items: center;
